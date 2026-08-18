@@ -11,6 +11,7 @@ tipamount = billamount * (tippercent/100);
 printf("Tip = $%.2lf\n", tipamount);
 totalbill = billamount + tipamount;
 printf("The total bill $%.2lf", totalbill);
+printf("Adding more info for this file");
 
 return 0;
 
