@@ -21,8 +21,7 @@ int result = (a > 5);  // relational expression 'a > 5' evaluate to 0 or 1
 printf("a = %d\n", a);     // Output: a = 5
 printf("b = %d\n", b);
 printf("c = a + b = %d\n", c);
-printf("a > 5 evaluates to: %d\n", result);  //output a > 5 evaluates to 0
-
+printf("a > 5 evaluates to: %d\n", result);  //output a > 5 evaluates to 
 return 0;// End of program
 
 }
