@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(){
-
 double billamount,totalbill, tipamount, tippercent;
 printf("Enter the billamount:\n");
 scanf("%lf", &billamount);
