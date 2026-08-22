@@ -22,7 +22,7 @@ printf("Enter your choice: ");
 while(scanf("%d", &choice) != 1) {
     printf("Invalid input. Please enter a number.\n");
     while(getchar() != '\n'); // clear input buffer
-    printf("Enter you choice: ");
+    printf("Enter your choice: ");
 }
  
    
